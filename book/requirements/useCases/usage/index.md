@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{baseUrl}}/book/css/textbook.css">
+<link rel="stylesheet" href="{{baseUrl}}/css/textbook.css">
 
 <div class="website-content">
 
@@ -10,7 +10,7 @@
 
 Actor generalization
 
-<img src="{{baseUrl}}/book/requirements/useCases/usage/images/ActorGeneralisation.jpg" height="250" />
+<img src="{{baseUrl}}/requirements/useCases/usage/images/ActorGeneralisation.jpg" height="250" />
 
 <p/>
 
@@ -20,7 +20,7 @@ Do not over-complicate use case diagrams.
 
 Some include ‘System’ as an actor to indicate that something is done by the system itself without being initiated by a user or an external system. For example, the diagram below can be used to indicate that the system generates daily reports at midnight.
 
-<img src="{{baseUrl}}/book/requirements/useCases/usage/images/SystemAsActor.jpg" height="250" />
+<img src="{{baseUrl}}/requirements/useCases/usage/images/SystemAsActor.jpg" height="250" />
 
 <p/>
 

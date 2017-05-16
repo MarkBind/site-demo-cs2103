@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{baseUrl}}/book/css/textbook.css">
+<link rel="stylesheet" href="{{baseUrl}}/css/textbook.css">
 
 <div class="website-content">
 
@@ -24,7 +24,7 @@ A **use case** describes an _interaction between the user and the system_ for a 
 
 <p/>
 
-<img src="{{baseUrl}}/book/requirements/useCases/introduction/images/TicketMachine.jpg" height="250" />
+<img src="{{baseUrl}}/requirements/useCases/introduction/images/TicketMachine.jpg" height="250" />
 
 <p/>
 

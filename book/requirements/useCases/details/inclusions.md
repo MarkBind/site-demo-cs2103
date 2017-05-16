@@ -5,6 +5,6 @@ A use case can "include" another use case. Underlined text is commonly used to s
 
 We use a dotted arrow and a `<< include >>` annotation to show use case inclusions in a use case diagram. 
 
-<img src="{{baseUrl}}/book/requirements/useCases/details/images/Inclusion.jpg" height="250" />
+<img src="{{baseUrl}}/requirements/useCases/details/images/Inclusion.jpg" height="250" />
 
 <p/>
