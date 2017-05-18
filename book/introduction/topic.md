@@ -1,9 +1,9 @@
-* [Introduction to SE](./introduction/) 
+* [Introduction to SE](./introduction/)
   <trigger for="pop:intro-preview">:mag:</trigger>
-  
+
 <popover id="pop:intro-preview" placement="right">
   <div slot="content">
-  
+
 This chapters gives a general introduction to SE.
 
 It covers topics:
@@ -14,4 +14,3 @@ It covers topics:
 
   </div>
 </popover>
-
